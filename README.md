@@ -2,7 +2,7 @@
 
 ## 🚀 Apasionado por la Tecnología y la Innovación 🚀
 
-Soy un profesional dedicado a la creación de herramientas y soluciones que transforman ideas en realidades impactantes. Mi experiencia abarca el desarrollo de software, inteligencia artificial, blockchain y computación cuántica. Como programador políglota, disfruto explorando nuevos lenguajes y tecnologías para llevar cada proyecto al siguiente nivel.
+Soy un profesional con más de 9 años de experiencia en la creación de sistemas robustos del lado del servidor, con un enfoque particular en plataformas de blockchain y criptomonedas. Me considero un artesano del código, siempre buscando la solución más elegante y eficiente para cada desafío. Me dedico a la creación de herramientas y soluciones que transforman ideas en realidades impactantes. Mi experiencia abarca el desarrollo de software, inteligencia artificial, blockchain y computación cuántica. Como programador políglota, disfruto explorando nuevos lenguajes y tecnologías para llevar cada proyecto al siguiente nivel. 
 
 ---
 
@@ -21,8 +21,35 @@ Este es mi espacio donde comparto proyectos, frameworks y experimentos que explo
 
 ---
 
-## 💻 Lenguajes de Programación
+## 🛠️ Mi Caja de Herramientas:
 
+Si lo imaginas, ¡seguramente puedo programarlo!:
+
+**Lenguajes de Programación:**
+JavaScript | TypeScript | Golang | Rust | Python | Solidity | SQL
+
+**Desarrollo Backend:**
+Express.js | Nest.js | Gin | Fiber | FastHTTP | Axum | Actix | Tokio | Django | Flask | FastAPI
+
+**Blockchain:**
+Ethereum | Solana | Truffle Suite | Cosmos SDK | CosmWasm | Hyperledger | Agoric SDK
+
+**Desarrollo Frontend:**
+React.js | Next.js | Vue.js | AngularJS | TailwindCSS | Material UI
+
+**Cloud Computing:**
+AWS | Azure | GCP | DigitalOcean | Heroku | Salesforce Platform
+
+**CI/CD & Contenerización:**
+Jenkins | GitLab CI/CD | CircleCI | GitHub Actions | Docker | Kubernetes | Amazon ECS
+
+**Testing Frameworks:**
+Ginkgo | Gomega | Hardhat | Jest | Mocha | Cypress | Scalar | Postman
+
+**Bases de Datos:**
+MySQL | PostgreSQL | Supabase | MongoDB | Neo4j | Redis
+
+**🌟Manejo con soltura:**
 - **Python**  
   ████████████████████ 90%  
   Experiencia avanzada en desarrollo backend, automatización y frameworks personalizados.
@@ -30,10 +57,6 @@ Este es mi espacio donde comparto proyectos, frameworks y experimentos que explo
 - **Rust**  
   ████████████████░░░ 80%  
   Desarrollo seguro y eficiente en sistemas de alto rendimiento.
-
-- **JavaScript**  
-  ███████████████░░░░ 75%  
-  Amplio conocimiento en desarrollo frontend y frameworks como React.js.
 
 - **Solidity**  
   ███████████████░░░░ 75%  
@@ -43,21 +66,7 @@ Este es mi espacio donde comparto proyectos, frameworks y experimentos que explo
   █████████████░░░░░░ 65%  
   Experiencia en simulación y programación cuántica.
 
-- **SQL**  
-  ████████████████░░░ 80%  
-  Dominio en modelado y optimización de bases de datos.
 
-- **HTML & CSS**  
-  ███████████████░░░░ 70%  
-  Construcción de interfaces modernas y usables.
-
-- **Bash/Shell**  
-  ████████████░░░░░░░ 60%  
-  Automatización de tareas y scripts para entornos Linux/Unix.
-
-- **Otros:** C++, Java, R  
-  ██████░░░░░░░░░░░░ 40%-50%  
-  Experiencia en proyectos específicos y análisis avanzado.
 
 ---
 
