@@ -2,12 +2,12 @@
 
 ## 🚀 Apasionado por la Tecnología y la Innovación 🚀
 
-Soy un profesional dedicado a la creación de herramientas y soluciones que transforman ideas en realidades impactantes. Mi experiencia abarca el desarrollo de software, inteligencia artificial, análisis de datos y el diseño de arquitecturas tecnológicas que marcan la diferencia.
+Soy un profesional dedicado a la creación de herramientas y soluciones que transforman ideas en realidades impactantes. Mi experiencia abarca el desarrollo de software, inteligencia artificial, blockchain y computación cuántica. Como programador políglota, disfruto explorando nuevos lenguajes y tecnologías para llevar cada proyecto al siguiente nivel.
 
 ---
 
 ## 🌟 ¿Qué encontrarás aquí?
-Este es mi espacio donde comparto proyectos, frameworks y experimentos que exploran los límites de la tecnología. Desde automatización financiera hasta análisis avanzado en trading, cada repositorio está diseñado para inspirar y aportar valor.
+Este es mi espacio donde comparto proyectos, frameworks y experimentos que exploran los límites de la tecnología. Desde automatización financiera hasta análisis avanzado en trading y exploraciones en computación cuántica, cada repositorio está diseñado para inspirar y aportar valor.
 
 ### 🔥 Proyectos Destacados
 - **📊 The Money Machine**  
@@ -18,6 +18,46 @@ Este es mi espacio donde comparto proyectos, frameworks y experimentos que explo
 
 - **💻 ACMA Dashboard**  
   Un sistema intuitivo y modular que permite gestionar múltiples flujos de datos con interfaces modernas y dinámicas.
+
+---
+
+## 💻 Lenguajes de Programación
+
+- **Python**  
+  ████████████████████ 90%  
+  Experiencia avanzada en desarrollo backend, automatización y frameworks personalizados.
+
+- **Rust**  
+  ████████████████░░░ 80%  
+  Desarrollo seguro y eficiente en sistemas de alto rendimiento.
+
+- **JavaScript**  
+  ███████████████░░░░ 75%  
+  Amplio conocimiento en desarrollo frontend y frameworks como React.js.
+
+- **Solidity**  
+  ███████████████░░░░ 75%  
+  Experiencia en contratos inteligentes para blockchain.
+
+- **Qiskit (Python para Computación Cuántica)**  
+  █████████████░░░░░░ 65%  
+  Experiencia en simulación y programación cuántica.
+
+- **SQL**  
+  ████████████████░░░ 80%  
+  Dominio en modelado y optimización de bases de datos.
+
+- **HTML & CSS**  
+  ███████████████░░░░ 70%  
+  Construcción de interfaces modernas y usables.
+
+- **Bash/Shell**  
+  ████████████░░░░░░░ 60%  
+  Automatización de tareas y scripts para entornos Linux/Unix.
+
+- **Otros:** C++, Java, R  
+  ██████░░░░░░░░░░░░ 40%-50%  
+  Experiencia en proyectos específicos y análisis avanzado.
 
 ---
 
