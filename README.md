@@ -1,9 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Daniel Rosner
-### **Systems & Blockchain Architect | Full-Stack Rust & Distributed Systems Engineer**
+### **Systems & Blockchain Architect | Full-Stack Rust & Distributed Infrastructure Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rosner-b41938179/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rosner/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_DanRows_)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dan.rsnr)
 [![GitHub](https://img.shields.io/badge/GitHub-DanRows-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanRows)
 
@@ -11,10 +12,12 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Anchor-00D4AA?style=flat-square&logo=anchor&logoColor=white" alt="Anchor" />
+  <img src="https://img.shields.io/badge/Token--2022-14F195?style=flat-square&logo=solana&logoColor=black" alt="Token-2022" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM" />
+  <img src="https://img.shields.io/badge/Actix--Web-000000?style=flat-square&logo=rust&logoColor=white" alt="Actix-Web" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
@@ -24,79 +27,89 @@
 
 ## ⚡ About Me
 
-I am a self-taught **Systems & Blockchain Architect** with **20+ years of programming experience**, specializing in building mission-critical financial platforms, high-throughput backend architectures, and distributed ledger systems.
+I am a self-taught **Systems & Blockchain Architect** with **20+ years of software engineering experience**, specializing in mission-critical financial platforms, high-throughput distributed systems, and distributed ledger technology.
 
-My engineering philosophy centers on **end-to-end type safety, high performance, and institutional-grade software**: from on-chain Anchor smart contracts and zero-knowledge identity layers to asynchronous microservices and WebAssembly-driven operator cockpits. I bridge deep domain expertise in financial regulations, cryptographic compliance, and real-time computing to transform complex architectural challenges into rock-solid software.
+My engineering ethos is rooted in **end-to-end type safety, zero-compromise security, and institutional-grade density**: from Solana VM (SVM) smart contracts and cryptographic identity layers to asynchronous Actix/Tokio microservices and WebAssembly-driven command cockpits. I bridge deep domain expertise in financial regulations, cryptographic compliance, and real-time computing to turn complex architectural challenges into deterministic, rock-solid software.
 
-- 🦀 **Primary Specialty:** High-performance systems programming in **Rust**, **Solana VM (SVM)**, and asynchronous runtimes (**Actix / Tokio**).
-- ⛓️ **Web3 & RWA:** Architect of regulated tokenization engines, DvP (Delivery vs. Payment) atomic escrow settlements, and Solana **Token-2022 extensions** (synchronous Transfer Hooks, Permanent Delegates).
-- 🌐 **UI & WASM:** Creator of bespoke, strongly-typed WebAssembly design systems, WebGL rendering engines, and high-density operator cockpits.
-- 🧠 **AI & Cognitive Systems:** Native Rust implementations of declarative reasoning engines (DSRs / DSPy) for automated compliance, contract auditing, and agentic workflows.
-- 🔬 **R&D & Deep Tech:** Spatial geofencing suites, quantitative trading engines, GPU-accelerated market intelligence, and explorations in Quantum Computing (**Qiskit**).
+- 🦀 **End-to-End Rust Ecosystem:** Architect of multi-tier codebases spanning **~200,000 LOC in pure Rust** across backend microservices, custom WASM UI suites, and Solana SVM programs.
+- ⛓️ **Institutional RWA on Solana:** Specialist in **Solana Token-2022 extensions** (synchronous on-chain Transfer Hooks, Permanent Delegates, Default Frozen ATAs), non-custodial **DvP (Delivery vs. Payment)** settlement escrows, and **Merkle-tree yield distribution engines**.
+- 🏛️ **Bespoke UI & WebAssembly:** Creator of **Titan V3**, a zero-CSS-framework, type-safe UI architecture built in Rust → WASM with custom WebGL 3D rendering and financial charting engines.
+- 🗺️ **High-Precision Spatial Computing:** Architect of **Oxydryl**, a hermetic spatial telemetry and geofencing engine utilizing Uber's **H3 hierarchical hexagonal spatial index** for physical asset verification and payment anomaly detection.
+- 🧠 **Native AI & Cognitive Systems:** Implementation of declarative self-reflective reasoning (**DSR / DSPy paradigms**) in pure Rust for automated legal contract auditing, treasury runbooks, and compliance risk scoring.
+- 🔬 **Quantitative & Deep Tech R&D:** GPU-accelerated algorithmic trading engines, real-time market anomaly analyzers, and quantum computing simulations (**Qiskit**).
 
 ---
 
 ## 🚀 Featured Projects & Architecture
 
 ### ⚛️ [Fission Engine](https://github.com/DanRows/Fission-Engine)
-**Institutional B2B SaaS Platform for Regulated RWA (Real World Asset) Tokenization**
-- Engineered a full-stack, white-label tokenization infrastructure transforming physical assets (real estate, debt, equipment, agriculture) into regulated digital trusts settled on Solana.
-- Implemented **on-chain compliance via Token-2022 Transfer Hooks**, enforcing automated, synchronous KYC/AML verification on every transaction at the VM level.
-- Designed non-custodial **DvP (Delivery vs. Payment) atomic escrow programs** with zero-knowledge proof (ZKP) identity gating and Merkle-proof yield distribution engines (*Snapshot Engine*).
-- Built a high-throughput **Actix-web + Diesel ORM + Redis** backend with strict Segregation of Duties (SOD) matrices, Attribute-Based Access Control (**Guardian**), and native Rust AI auditors.
+**Regulated Institutional RWA (Real World Asset) Tokenization & Settlement Infrastructure**
+- Architected an institutional B2B white-label platform converting physical assets (real estate, private debt, agricultural equipment, infrastructure) into regulated digital trusts settled on Solana.
+- Implemented **on-chain compliance via Token-2022 Transfer Hooks**, enforcing automated, VM-level KYC/AML validation on every single transaction before state mutation.
+- Built non-custodial **DvP (Delivery vs. Payment) atomic escrow programs** and Merkle-proof yield distribution engines with automated 5% protocol fee splitting.
+- Designed a high-throughput **Actix-web + Diesel ORM + PostgreSQL** backend with strict Segregation of Duties (SOD) matrices, Dual-Approval desks, and Attribute-Based Access Control (**Guardian**).
 
 ### 🏛️ Titan V3
 **Type-Safe UI Framework & Design System in Rust & WebAssembly**
-- Built an institutional-grade, zero-CSS-framework UI suite running on **Dioxus + WebAssembly**.
-- Designed strictly typed design tokens, layout primitives, custom charting engines (`titan_charts`), WebGL 3D views (`titan_three`), and localized i18n architectures for high-density financial cockpits.
+- Built an institutional-grade, zero-CSS-framework UI suite composed of **12 modular Rust crates** running on **Dioxus + WebAssembly**.
+- Features typed design token systems (*Obsidian Ledger* & *Sovereign Light*), reactive form validators (`titan_validation`), financial charting suites (`titan_charts`), and WebGL 3D views (`titan_three`).
 
 ### 🗺️ -OH Oxydryl
-**Geospatial Geofencing & Spatial Monitoring Suite**
-- Developed a high-performance backend suite for spatial telemetry, geofencing enforcement, and real-time geographical data indexing, integrated as part of the Fission Engine ecosystem.
+**Hermetic H3 Spatial Engine & Geofencing Suite**
+- Developed a high-performance spatial indexing engine leveraging **Uber H3 (Resolution 9 parcel-scale hexagons)** with concurrent `DashMap` storage.
+- Enables real-time polygon boundary enforcement, dynamic geofence enter/exit telemetry, and spatial anomaly screening for capital movements.
 
-### 🤖 Trading Intelligence Bureau (TIB)
-**Real-Time Quantitative & Market Intelligence System**
-- High-performance analytical engine optimized for modern GPUs, delivering sub-second market anomaly detection, order book analytics, and cryptographic asset reporting.
+### 🛡️ Guardian & Argos-ID
+**Zero-Trust Security Perimeter & Cryptographic Identity**
+- Engineered a default-deny positive security model with hot-reloadable ABAC policy enforcement and mTLS banking integrations.
+- Integrated privacy-preserving identity verification with cryptographic signatures and Zero-Knowledge Proof (ZKP) onboarding.
+
+### 🤖 Trading Intelligence Bureau (TIB) & The Money Machine
+**Quantitative Market Intelligence & Financial Automation**
+- **TIB:** Sub-second market intelligence and order-book anomaly detection engine optimized for modern GPU architectures.
+- **The Money Machine:** Python-driven algorithmic asset allocation, execution strategy orchestration, and automated risk management.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies & Capabilities |
 | :--- | :--- |
 | **Core Languages** | **Rust**, **Python**, **Go**, **TypeScript / JavaScript**, **Solidity**, **SQL** |
-| **Blockchain & Web3** | **Solana (Anchor, Token-2022, SVM)**, Ethereum (EVM, Hardhat), Cosmos SDK / CosmWasm, Hyperledger, Agoric |
-| **Backend & Systems** | **Actix-web**, **Axum**, **Tokio**, **Diesel ORM**, **FastAPI**, **Gin**, **Fiber**, **Nest.js**, **Express** |
-| **Cryptosystems & Security** | Zero-Knowledge Proofs (ZKP), Biometric Cryptographic Signatures (Argos-ID), ABAC/RBAC, SOD Matrix |
-| **Frontend & WASM** | **WebAssembly (WASM)**, **Dioxus**, **Titan V3**, React, Next.js, Vue.js, WebGL |
-| **Databases & Cache** | **PostgreSQL**, **Redis**, Supabase, MongoDB, Neo4j, MySQL |
-| **DevOps & Cloud** | **Docker**, **Kubernetes**, **GitHub Actions**, AWS, GCP, Azure, DigitalOcean, Linux (Ubuntu/WSL2/Mint) |
-| **AI & Advanced Computing** | **DSPy / DSRs in Rust**, **Qiskit** (Quantum Computing Simulation), CUDA/GPU acceleration, Algorithmic Trading |
+| **Blockchain & SVM** | **Solana VM (Anchor 0.30+, Token-2022, Transfer Hooks, DvP Escrows)**, Ethereum (EVM, Hardhat), Cosmos SDK, Agoric |
+| **Backend & Distributed Systems** | **Actix-web**, **Axum**, **Tokio**, **Diesel ORM**, **PostgreSQL**, **Redis**, **FastAPI**, **Gin**, **Nest.js**, gRPC |
+| **Security & Compliance** | **ABAC / RBAC (Guardian)**, **Segregation of Duties (SOD)**, mTLS Banking Rails (BCRA/Coelsa), Zero-Knowledge Proofs (ZKP) |
+| **Spatial & Geofencing** | **Uber H3 Spatial Index (H3o)**, Geofencing Telemetry, GeoJSON Polygon Processing, Spatial Anomaly Scoring |
+| **Frontend & WASM** | **WebAssembly (WASM)**, **Dioxus**, **Titan V3 Framework**, WebGL, React, Next.js |
+| **AI & Cognitive Systems** | **Declarative Self-Reflective Reasoning (DSRs / DSPy in Rust)**, LLM Observability & PII Redaction, Automated Legal Audits |
+| **DevOps & Infrastructure** | **Docker**, **Kubernetes**, **GitHub Actions**, AWS, GCP, Linux (Ubuntu/WSL2/Mint) |
+| **Deep Tech & Quantitative** | **Qiskit** (Quantum Simulation), CUDA/GPU Acceleration, High-Frequency Trading & Order-Book Analytics |
 
 ---
 
 ## 📐 Engineering Principles
 
-1. **If it compiles, it behaves:** Enforcing domain invariants at compile-time using expressive type systems (Rust enums, strict schemas) to eliminate runtime regressions.
-2. **Deterministic & Auditable State:** Designing finite state machines (FSM) and transactional logs for every critical asset lifecycle transition.
-3. **Security by Construction:** Zero-trust architecture, strict access policies (ABAC/SOD), and synchronous on-chain verification before funds or states can mutate.
-4. **Operate Density over Decoration:** Prioritizing cognitive clarity, sub-millisecond responsiveness, and robust telemetry for mission-critical operations.
+1. **If it compiles, it behaves:** Using Rust’s expressive type system and strict invariant modeling to eliminate entire categories of runtime errors before deployment.
+2. **Security by Construction:** Zero-trust architecture, strict segregation of duties (SOD), default-deny routing, and synchronous VM-level validation before capital moves.
+3. **Deterministic & Auditable State:** Finite state machines (FSM), immutable transaction event logs, and Merkle proofs for all critical asset lifecycle transitions.
+4. **Operate Density over Ornamentation:** Designing high-density, sub-millisecond operator cockpits focused on rapid situational awareness, clarity, and zero runtime latency.
 
 ---
 
 ## 📖 Publications & Insights
 
-I write about systems design, blockchain architecture, full-stack Rust engineering, and RWA tokenization:
+I write about systems architecture, Solana VM engineering, full-stack Rust, and RWA tokenization:
 - ✍️ **Medium:** [medium.com/@dan.rsnr](https://medium.com/@dan.rsnr)
 
 ---
 
 ## 📬 Let's Connect
 
-I'm always open to discussing distributed systems, RWA tokenization, high-performance Rust, or collaborative deep-tech ventures:
+Open to discussing distributed systems architecture, Solana Token-2022, RWA tokenization, or deep-tech engineering:
 
 - 💼 **LinkedIn:** [Daniel Rosner](https://www.linkedin.com/in/daniel-rosner/)
-- 🐦‍⬛ **X:** [@DanRows](https://x.com/_DanRows_)
+- 🐦‍⬛ **X:** [@_DanRows_](https://x.com/_DanRows_)
+
 <div align="center">
-  <sub>Built with precision and type safety ⚡</sub>
+  <sub>Engineered with precision, type safety, and zero-compromise security ⚡</sub>
 </div>
